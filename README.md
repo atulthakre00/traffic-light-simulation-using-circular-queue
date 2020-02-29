@@ -1,6 +1,6 @@
 # Traffic Light Simulation Using Circular Queue
 
-This is a simple Tkinter GUI based Python Program to simulate working of Traffic Lights to implement queue implementation
+This is a simple Tkinter GUI based Python Program to simulate working of Traffic Lights using Circular Queue implementation
 
 Technical Skills Used:
 
